@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/moham.MSI-KATANA/OneDrive/Desktop/MyFiles/%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9%20%D8%B1%D9%88%D8%A7%D8%AF%20%D9%85%D8%B5%D8%B1%20%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D9%87/FinalProject/mlruns/0/5fdfa1bfec6b4cbab61341347ff3d10c/artifacts
+end_time: 1729015584433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fdfa1bfec6b4cbab61341347ff3d10c
+run_name: smiling-croc-231
+run_uuid: 5fdfa1bfec6b4cbab61341347ff3d10c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729015490125
+status: 3
+tags: []
+user_id: moham

@@ -1,0 +1,21 @@
+artifact_path: discriminator_model
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.6
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.4.1+cpu
+mlflow_version: 2.17.0
+model_size_bytes: 30170
+model_uuid: d2c05c27fb294a0084896686ec6c6c0f
+run_id: 430a1d86935c4199be7edf38f1ffcc0a
+utc_time_created: '2024-10-14 19:16:46.307781'
